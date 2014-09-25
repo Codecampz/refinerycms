@@ -80,6 +80,7 @@ capybara-*html
 
 # rbenv
 .rbenv-version
+.rbenv-gemsets
 
 # Sprockets
 public/assets
